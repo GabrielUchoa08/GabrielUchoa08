@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Olá! Seja bem vindo ao meu perfil, eu me chamo Gabriel Uchôa 👋</h1>
 
-<!--
-**GabrielUchoa08/GabrielUchoa08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <h3>Sobre mim</h3>
+  <p>Atualmente sou graduando em Ciências e Tecnologia com ênfase em Engenharia da Computação pela Universidade Federal do Rio Grande do Norte.</p>
+  <h3>Interesses</h3>
+    <ul>
+      <li>Data Science</li>
+      <li>Machine Learning</li>
+      <li>Python & Pandas</li>
+    </ul>
+</div>
+<h3>Stats</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielUchoa08&show_icons=true&theme=radical)
+<br/>
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielUchoa08&show_icons=true&theme=radical&layout=compact)
+<div>
+  
+  <h3>Contact me</h3>
+   <a href="mailto:gabriel.uchoa92@gmail.com">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="20">
+      Email
+   </a>
+   <br/>
+   <a href="https://www.linkedin.com/in/gabrieluchoa08/?locale=en_US">
+     <img src="https://www.svgrepo.com/show/81143/linkedin.svg" alt="Linkedin" width="20">
+      Linkedin
+</div>
