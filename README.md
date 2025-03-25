@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Seja bem vindo ao meu perfil, eu me chamo Gabriel Uchôa 👋</h1>
+<h1 align="center">Seja bem vindo ao meu perfil, eu me chamo Gabriel Uchôa 👋</h1>
 
 <div>
   <h3>Sobre mim</h3>
